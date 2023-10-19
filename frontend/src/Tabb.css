@@ -1,0 +1,66 @@
+/* .t1{background-color: darkseagreen;} */
+.t2{margin-top:40px;list-style-type:none;display:inline-flex;width:100px;}
+
+
+
+
+
+.card {margin:10px;margin-left:250px;border:2px solid black;height: 220px;width:600px}
+
+
+
+
+body{background-image:url("../public/images/bguv.jpg");background-size:100%;background-repeat:no-repeat;background-attachment:fixed;}
+ 
+ .ee{text-align:left;color:white;font-size:10px;background-color:maroon;margin-left:20px;margin-right:900px;padding:10px;;position:absolute;border:2px goldenrod solid;}
+
+ .ef{text-align:left;color:white;font-size:10px;background-color:teal;margin-left:370px;margin-right:640px;margin-top:20px;padding:10px;border:2px goldenrod solid;}
+
+ .gs{margin-left: 600px;margin-top:-370px;margin-bottom:5px;}
+ 
+
+ .HI{color:aliceblue;text-align: center;background-color: brown;}
+
+ .sc{background-color:rgb(155, 212, 176);width:100%;height:800px;border:5px white ridge;}
+
+ .hh1{background-color: rgb(154, 144, 133);width:280px;height:60px;padding:15px;margin-top:20px;margin-left:20px;}
+
+ .hh2{margin-left:20px;}
+
+ .ig5{width:400px;height:200px;border:2px white solid;margin-left:100px;transition:all 1s;left:0px;top:0px;}
+ .ig5:hover{transform:scale(1.5);}
+ .ig6{width:400px;height:400px;margin-left:40px;transition:all 1s;border:2px white solid;position:absolute;}
+ .ig6:hover{transform:translatex(60px);}
+ .ig7{width:500px;height:350px;margin-left:250px;transition:all 1s;border:2px white solid;}
+ .ig7:hover{transform:translate(-90px,100px);}
+ .sc1{margin-left:20px;}
+ .pp1{background-color: rgb(49, 173, 225);margin-left:20px;width:500px;height:100px;padding:2px;text-align: left;font-size: 15px;border:2px white solid;position:absolute;}
+ .pp2{background-color: rgb(49, 173, 225);margin-left:680px;width:500px;height:100px;padding:2px;text-align: left;font-size: 15px;border:2px white solid;}
+
+ .logins{background-color: rgb(180, 189, 65);width:100%;height:320px;padding-left:550px;padding-top:75px;}
+ .cont{margin-left:-400px;position: absolute;}
+ .cont2{position: absolute;}
+ .cont3{margin-left:400px;}
+
+
+ /* post styles
+  -------------- */
+
+.inpt{width:450px;height:500px;margin-left:350px;margin-top:70px;margin-bottom:30px;border:2px white solid;padding:40px;background-color:rgb(83, 157, 83);}
+.inpt1{width:100px;display:inline-block;}
+.scinpt{width:100px;display:inline-block;}
+
+/* getfrom */
+
+.getans {width:250px;display:inline-block;}
+.getbox1{margin-left:20px;}
+/* .aa{margin-left: 100px;} */
+.aa{
+  position: absolute;
+  left: 35%;
+  z-index: 999;
+}
+.dbdy{margin-bottom: 5%;}
+ 
+
+ 
